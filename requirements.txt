@@ -1,0 +1,12 @@
+# 基本依赖
+tkinter>=8.6
+# 如果使用的是Python 3.x，tkinter通常已经包含在标准库中
+
+# 系统监控
+psutil>=5.9.0
+
+# 日志处理
+logging>=0.5.1.2
+
+# 文件处理
+pathlib>=1.0.1 
